@@ -1,0 +1,23 @@
+{
+  "name": "code-prettify",
+  "version": "1.0.0",
+  "homepage": "https://github.com/avinashjoshi/code-prettify",
+  "description": "An embeddable script that makes source-code snippets in HTML prettier.",
+  "main": [
+    "loader/prettify.css",
+    "loader/prettify.js"
+  ],
+  "keywords": [
+    "code prettify",
+    "prettify",
+    "google code prettify"
+  ],
+  "license": "Apache License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
